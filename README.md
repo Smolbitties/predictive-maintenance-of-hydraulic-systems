@@ -5,12 +5,16 @@ This project focuses on predicting hydraulic system failures using time-series s
 ## Key Results
 
 - **Feature Importance**: The top 10 most important features identified by the Random Forest model were mainly pressure sensors, including:
-  1. Pressure_Sensor_56
-  2. Pressure_Sensor_7
-  3. Pressure_Sensor_11
-  4. Pressure_Sensor_30
-  5. Pressure_Sensor_13
-  6. Pressure_Sensor_6
+ 1. Pressure_Sensor_30
+ 2. Pressure_Sensor_6
+ 3. Pressure_Sensor_56
+ 4. Pressure_Sensor_13
+ 5. Pressure_Sensor_11
+ 6. Pressure_Sensor_17
+ 7. Pressure_Sensor_5
+ 8. Pressure_Sensor_58
+ 9. Pressure_Sensor_34
+ 10. Pressure_Sensor_7
 
 - **Model Accuracy**: The RandomForest model achieved 99% accuracy in predicting cooler failure.
 
